@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An embedded-systems coursework project implementing a serial-command-controlled garage-door controller in **8051 Assembly**. The program targets an **AT89C51** microcontroller and uses UART commands to select door-open or door-close motor-control outputs. A **16x2 character LCD** shows the corresponding door status.
+An embedded-systems project implementing a serial command controlled garage door controller using 8051 Assembly. The program targets an **AT89C51** microcontroller and uses UART commands to select door-open or door-close motor-control outputs. A **16x2 character LCD** shows the corresponding door status.
 
 The repository contains the original Assembly source, its supplied Intel HEX firmware, and a Proteus circuit project. The source and simulation files are included for study and demonstration. The original design and firmware have **not been modified** for this GitHub version.
 
