@@ -1,0 +1,9 @@
+# Generated assembler and Proteus temporary/backup files
+*.lst
+*.dev
+*.bak
+*.tmp
+*~
+simulation/Project Backups/
+*.pdsprj.DESKTOP*
+*.pdsprj.USER*
